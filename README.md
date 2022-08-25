@@ -15,4 +15,4 @@ Está ferramenta pode ser utilizada para desinstalar as chaves do Office
 ![Executar mesmo assim](prints/img2.PNG)  
   
 5_Clicar em "Sim" na mensagem pedindo a autorização do administrador  
-6_Aguardar o término da desinstalações das chaves e apertar qualquer botão para finalizar
+6_Aguardar o término da execução da ferramente e clicar em qualquer tecla para finalizar
